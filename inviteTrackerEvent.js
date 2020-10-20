@@ -10,5 +10,5 @@ module.exports = class Persona {
   get name(){
     return this.nombre ;
   }
-
+//test
 }
